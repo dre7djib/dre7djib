@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning C#
+Looking for an Intership
 
 
 # 💻 Tech Stack:
