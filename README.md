@@ -1,5 +1,5 @@
 # 💫 About Me:
-Looking for an Intership
+Learning ML
 
 
 # 💻 Tech Stack:
