@@ -1,5 +1,6 @@
 # 💫 About Me:
-Learning ML
+Dev Student
+
 
 
 # 💻 Tech Stack:
